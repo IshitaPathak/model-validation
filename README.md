@@ -4,7 +4,7 @@
  The repository is organized into several folders:
  
   * `/notebooks`: Contains Jupyter notebooks where the most work is developed.
-  * `/data`: Holds all csv files. Model predictions, obtained externally, are saved here. Subfolders may be created if needed.
+  * `/data`: Holds all csv files. Model predictions, obtained externally, are saved here. 
   * `/src`: Stores important functions for reuse throughout the repository, reducing the need for repetitive typing.
   * `/figures`: Contains plots produced during the model validation process.
     
